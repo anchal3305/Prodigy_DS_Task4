@@ -1,4 +1,3 @@
-# Prodigy_DS_Task4
 ## Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
 ## Dataset used: Sentimental Analysis dataset of twitter
